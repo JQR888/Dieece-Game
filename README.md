@@ -1,2 +1,2 @@
 # Dieece-Game
-This is a Dieece Game written in traditional frontend language. It allows players to roll two dices on a webpage.
+This is a Dice Game developed using traditional frontend languages. It enables players to roll two dice directly on a web page.
